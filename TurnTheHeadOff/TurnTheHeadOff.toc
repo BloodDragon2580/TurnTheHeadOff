@@ -1,8 +1,8 @@
-## Interface: 90105
+## Interface: 90200
 ## Title: |cffd6266cTurnTheHeadOff|r
 ## Notes: Turn off the annoying talking head.
 ## Author: BloddDragon2580
-## Version: 2.6
+## Version: 2.7
 ## SavedVariables: TurnTheHeadOffData
 
 TurnTheHeadOff.lua
