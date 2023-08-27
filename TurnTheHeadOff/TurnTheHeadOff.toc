@@ -1,8 +1,8 @@
-## Interface: 100100
+## Interface: 100105
 ## Title: |cffd6266cTurnTheHeadOff|r
 ## Notes: Turn off the annoying talking head.
 ## Author: BloddDragon2580
-## Version: 3.9
+## Version: 4.0
 ## IconTexture: Interface\AddOns\TurnTheHeadOff\Media\Texture\logo
 
 TurnTheHeadOff.lua
