@@ -3,7 +3,7 @@
 ## Notes: Turn off the annoying talking head.
 ## Notes-ruRU: Позволяет отключить надоедливую 'Говорящую голову'
 ## Author: BloodDragon2580
-## Version: 11.8
+## Version: 11.9
 ## IconTexture: Interface\AddOns\TurnTheHeadOff\Media\Texture\logo
 
 TurnTheHeadOff.lua
